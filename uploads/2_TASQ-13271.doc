@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#TASQ-13271] Notificació intervenció en servei en producció</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://tiquets.uab.cat/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TASQ-13271]&nbsp;<a href="https://tiquets.uab.cat/browse/TASQ-13271">Notificació intervenció en servei en producció</a>
+            <span class="subText">
+               Creat: 16/d&rsquo;oct./25                   &nbsp;Actualitzat: 16/d&rsquo;oct./25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Estat:</b></td>
+        <td width="80%">Pendent</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projecte:</b></td>
+        <td width="80%"><a href="https://tiquets.uab.cat/secure/BrowseProject.jspa?id=10002">DTIC - Tasques</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            Cap
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versions Afectades:</b></td>
+            <td>
+                            Cap
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Version/s Fixades:</b></td>
+            <td>
+                            Cap
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipus:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            GRAL - Notificació intervenció en servei en producció
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioritat:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Mitjana
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Informador:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="2016572" id="word_reporter_2016572" href="https://tiquets.uab.cat/secure/ViewProfile.jspa?name=2016572">Xavier Castilla Diaz</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignat:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="2016572" id="word_assignee_2016572" href="https://tiquets.uab.cat/secure/ViewProfile.jspa?name=2016572">Xavier Castilla Diaz</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolució:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				No resolta
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Vots:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etiquetes:</b>
+        </td>
+        <td id="labels-428109-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Cap
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimació Restant:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            No especificat
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Temps Invertit:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            No especificat
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimació Original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            No especificat
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Procediment:</b></td>
+                <td id="customfield_10528-428109-value" class="value" bgcolor="#ffffff" width="80%">      <p>Pas 1: CAS</p>
+<ul class="alternate" type="square">
+	<li>CAS notifica els canvis on correspongui, sempre al TEAMS. Etiquetar al grup @wintel @unix @COMMS (segons correspongui), DTIC i Mail segons es requereixi. Escalem al GrupDeSuport_N3 que correspongui al servei informat. Si cal publicar a la DTIC assignar el tiquet als agents del CAS que tenen permisos per publicar o en cas de no ser-hi cap dels dos, avisar als responsables.</li>
+</ul>
+
+
+<p>Pas 2 (Si l’executa AESC)</p>
+<ul class="alternate" type="square">
+	<li>CAS assigna el tiquet a l’”Administrado por” per tal d'executar el procediment definit pel responsable, si cal es modifica la documentació a oraculo i s’escala a GrupDeSuport_N3 per validar el canvi i una vegada validat, s'escala al CAS.</li>
+</ul>
+
+
+<p>Pas 3 (Si no l’executa AESC)</p>
+<ul class="alternate" type="square">
+	<li>GrupDeSuport_N3 coordina la intervenció i es valida el canvi i s'escala el tiquet al CAS.</li>
+</ul>
+
+
+<p>Pas 4: CAS</p>
+<ul class="alternate" type="square">
+	<li>CAS actualitza avisos publicats, i resol.</li>
+</ul>
+
+  </td>
+            </tr>
+                                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Grup Responsable:</b></td>
+                <td id="customfield_10405-428109-value" class="value" bgcolor="#ffffff" width="80%">    Producció UAB
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Darrera acció:</b></td>
+                <td id="customfield_10596-428109-value" class="value" bgcolor="#ffffff" width="80%">      Marc Perarnau Olaya:<br/>
+<br/>
+Publicat avis a TEAMS
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Servei afectat:</b></td>
+                <td id="customfield_10426-428109-value" class="value" bgcolor="#ffffff" width="80%">
+    
+         <div class="rlabs-customfield-viewdialog-object" style="display:inline-block" data-mouse-trigger="click" data-key="SI-1437" data-attributes-to-show-status="not_loaded" data-attribute-names-to-show="Name||GrupDeSuport_N3||Documentació||AdministratPer">
+            <div class="rlabs-customfield-viewdialog-object-info" title="Altres Serveis">
+                <span style="background-image:  url('https://tiquets.uab.cat/rest/insight/1.0/objecttype/145/icon.png?size=16'); background-repeat: no-repeat;" class="tinylink"><span style="padding-left: 20px;">Altres Serveis</span></span>
+            </div>
+            <div class="rlabs-customfield-viewdialog-object-attributes"></div>
+       </div> 
+          <div class="rlabs-customfield-viewdialog-object" style="display:inline-block" data-mouse-trigger="click" data-key="SI-121805" data-attributes-to-show-status="not_loaded" data-attribute-names-to-show="Name||GrupDeSuport_N3||Documentació||AdministratPer">
+            <div class="rlabs-customfield-viewdialog-object-info" title="NUT">
+                <span style="background-image:  url('https://tiquets.uab.cat/rest/insight/1.0/objecttype/147/icon.png?size=16'); background-repeat: no-repeat;" class="tinylink"><span style="padding-left: 20px;">NUT</span></span>
+            </div>
+            <div class="rlabs-customfield-viewdialog-object-attributes"></div>
+       </div> 
+      </td>
+            </tr>
+                                                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Planificat:</b></td>
+                <td id="customfield_10574-428109-value" class="value" bgcolor="#ffffff" width="80%">            <span title="28/d’oct./25 3:00 PM"><time class="livestamp allow-future" datetime="2025-10-28T15:00:00+0100">28/10/25 15:00</time></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Groups:</b></td>
+                <td id="customfield_16700-428109-value" class="value" bgcolor="#ffffff" width="80%">
+    Cap
+</td>
+            </tr>
+                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>URL Formulari:</b></td>
+                <td id="customfield_10553-428109-value" class="value" bgcolor="#ffffff" width="80%">            <a href="https://tiquets.uab.cat/servicedesk/customer/portal/1/TASQ-13271">https://tiquets.uab.cat/servicedesk/customer/portal/1/TASQ-13271</a>
+    
+</td>
+            </tr>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Afectació a l&#39;usuari:</b></td>
+                <td id="customfield_12110-428109-value" class="value" bgcolor="#ffffff" width="80%">    No
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Canal de notificació:</b></td>
+                <td id="customfield_12111-428109-value" class="value" bgcolor="#ffffff" width="80%">
+
+
+    <div class="shorten" id="customfield_12111-field">
+        							<span>No cal</span>			            </div>
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Data d&#39;inici:</b></td>
+                <td id="customfield_12112-428109-value" class="value" bgcolor="#ffffff" width="80%">      28/10/2025
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Data de Finalització:</b></td>
+                <td id="customfield_12113-428109-value" class="value" bgcolor="#ffffff" width="80%">      28/10/2025
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Hora d&#39;inici:</b></td>
+                <td id="customfield_12114-428109-value" class="value" bgcolor="#ffffff" width="80%">      09:30
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Hora de finalització:</b></td>
+                <td id="customfield_12115-428109-value" class="value" bgcolor="#ffffff" width="80%">      13:00
+  </td>
+            </tr>
+                                                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>El canvi/intervenció el realitza producció (AESC)?:</b></td>
+                <td id="customfield_17200-428109-value" class="value" bgcolor="#ffffff" width="80%">    No
+</td>
+            </tr>
+                                                                                                                                                                                                                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Ubicació d&#39;assistència:</b></td>
+                <td id="customfield_10554-428109-value" class="value" bgcolor="#ffffff" width="80%">      Edifici D
+  </td>
+            </tr>
+                                                                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Canal:</b></td>
+                <td id="customfield_10403-428109-value" class="value" bgcolor="#ffffff" width="80%">    Formularis
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Urgència:</b></td>
+                <td id="customfield_10401-428109-value" class="value" bgcolor="#ffffff" width="80%">    2-Alta
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Impacte:</b></td>
+                <td id="customfield_10402-428109-value" class="value" bgcolor="#ffffff" width="80%">    2-Ampli
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Tipus de cas:</b></td>
+                <td id="customfield_10411-428109-value" class="value" bgcolor="#ffffff" width="80%">    Tasca
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Tipus d&#39;Operació:</b></td>
+                <td id="customfield_10404-428109-value" class="value" bgcolor="#ffffff" width="80%">    Informar
+</td>
+            </tr>
+                                            <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Temps màxim resolució:</b></td>
+                <td id="customfield_11518-428109-value" class="value" bgcolor="#ffffff" width="80%">    5 dies
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Processos DTIC:</b></td>
+                <td id="customfield_11703-428109-value" class="value" bgcolor="#ffffff" width="80%">
+    
+         <div class="rlabs-customfield-viewdialog-object" style="display:inline-block" data-mouse-trigger="click" data-key="SI-161544" data-attributes-to-show-status="not_loaded" data-attribute-names-to-show="">
+            <div class="rlabs-customfield-viewdialog-object-info" title="TASQUES - GRAL - Notificació intervenció en servei en producció">
+                <span style="background-image:  url('https://tiquets.uab.cat/rest/insight/1.0/objecttype/243/icon.png?size=16'); background-repeat: no-repeat;" class="tinylink"><span style="padding-left: 20px;">TASQUES - GRAL - Notificació intervenció en servei en producció</span></span>
+            </div>
+            <div class="rlabs-customfield-viewdialog-object-attributes"></div>
+       </div> 
+      </td>
+            </tr>
+                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Peticionari:</b></td>
+                <td id="customfield_10532-428109-value" class="value" bgcolor="#ffffff" width="80%">
+    
+         <div class="rlabs-customfield-viewdialog-object" style="display:inline-block" data-mouse-trigger="click" data-key="SI-81661" data-attributes-to-show-status="not_loaded" data-attribute-names-to-show="Nom||Correu||Telèfon||Ubicació||Despatx||LlocDeTreball||UnitatOrganitzativa||Colectiu||SID||VIP">
+            <div class="rlabs-customfield-viewdialog-object-info" title="2016572">
+                <span style="background-image:  url('https://tiquets.uab.cat/rest/insight/1.0/objecttype/217/icon.png?size=16'); background-repeat: no-repeat;" class="tinylink"><span style="padding-left: 20px;">2016572</span></span>
+            </div>
+            <div class="rlabs-customfield-viewdialog-object-attributes"></div>
+       </div> 
+      </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Ubicació:</b></td>
+                <td id="customfield_10555-428109-value" class="value" bgcolor="#ffffff" width="80%">
+    
+         <div class="rlabs-customfield-viewdialog-object" style="display:inline-block" data-mouse-trigger="click" data-key="SI-1617" data-attributes-to-show-status="not_loaded" data-attribute-names-to-show="">
+            <div class="rlabs-customfield-viewdialog-object-info" title="Edifici D">
+                <span style="background-image:  url('https://tiquets.uab.cat/rest/insight/1.0/objecttype/209/icon.png?size=16'); background-repeat: no-repeat;" class="tinylink"><span style="padding-left: 20px;">Edifici D</span></span>
+            </div>
+            <div class="rlabs-customfield-viewdialog-object-attributes"></div>
+       </div> 
+      </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>SID Vinculat:</b></td>
+                <td id="customfield_10552-428109-value" class="value" bgcolor="#ffffff" width="80%">
+    
+         <div class="rlabs-customfield-viewdialog-object" style="display:inline-block" data-mouse-trigger="click" data-key="SI-101379" data-attributes-to-show-status="not_loaded" data-attribute-names-to-show="">
+            <div class="rlabs-customfield-viewdialog-object-info" title="Sense SID">
+                <span style="background-image:  url('https://tiquets.uab.cat/rest/insight/1.0/objecttype/210/icon.png?size=16'); background-repeat: no-repeat;" class="tinylink"><span style="padding-left: 20px;">Sense SID</span></span>
+            </div>
+            <div class="rlabs-customfield-viewdialog-object-attributes"></div>
+       </div> 
+      </td>
+            </tr>
+                                                            <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Grup de Nivell 1:</b></td>
+                <td id="customfield_10526-428109-value" class="value" bgcolor="#ffffff" width="80%">      CAS
+  </td>
+            </tr>
+                                                                                            <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Participantes de la solicitud:</b></td>
+                <td id="customfield_10202-428109-value" class="value" bgcolor="#ffffff" width="80%">
+            Cap
+    </td>
+            </tr>
+                                            <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Organizaciones:</b></td>
+                <td id="customfield_10204-428109-value" class="value" bgcolor="#ffffff" width="80%">
+        
+            Cap
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Grups participants:</b></td>
+                <td id="customfield_10407-428109-value" class="value" bgcolor="#ffffff" width="80%">    <div class="shorten" id="customfield_10407-field">
+                    <span>CAS, </span>
+                    <span>Producció UAB</span>
+            </div>
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Llista de grups participants:</b></td>
+                <td id="customfield_11519-428109-value" class="value" bgcolor="#ffffff" width="80%">      CAS, Producció UAB
+  </td>
+            </tr>
+                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>ANS Resolució:</b></td>
+                <td id="customfield_10613-428109-value" class="value" bgcolor="#ffffff" width="80%">    En curs
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>T_Pendent:</b></td>
+                <td id="customfield_10614-428109-value" class="value" bgcolor="#ffffff" width="80%">    1w 2d 3h 5m
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>T_En Curs:</b></td>
+                <td id="customfield_10615-428109-value" class="value" bgcolor="#ffffff" width="80%">    1h 8m
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>T_CAS:</b></td>
+                <td id="customfield_10616-428109-value" class="value" bgcolor="#ffffff" width="80%">    43m
+</td>
+            </tr>
+                                                                                                                                                                                                                                                                                                                                                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>T_Producció UAB:</b></td>
+                <td id="customfield_10642-428109-value" class="value" bgcolor="#ffffff" width="80%">    1w 2d 3h 31m
+</td>
+            </tr>
+                                                                                                                                                                                                                                                                                                                                                                            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descripció</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Títol: Manteniment preventiu SAI 1 Edifici D</p>
+
+
+
+<p>Dimarts 28/10/25, de 09:30 a 13:00, s’ha planificat amb la UTIM i el proveIdor (EATON) el manteniment preventiu dels SAI 1 del nostre edifici D.</p>
+
+<p>Durant l’intervenció no estpa previst cap afectació als nostres serveis, ni a la xarxa elèctrica del nostre Edifici D.</p>
+
+
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comentaris</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-1021686"><td bgcolor="#f0f0f0">
+            Comentat per  
+                                                        <a class="user-hover" rel="2016572" id="word_commented_2016572" href="https://tiquets.uab.cat/secure/ViewProfile.jspa?name=2016572">Xavier Castilla Diaz</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">16/d&rsquo;oct./25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-1021686"><td bgcolor="#ffffff">
+            <p>Només cal publicació als canals de Teams.</p>
+        </td></tr>
+                <tr id="comment-header-1021871"><td bgcolor="#f0f0f0">
+            Comentat per  
+                                                        <a class="user-hover" rel="1803438" id="word_commented_1803438" href="https://tiquets.uab.cat/secure/ViewProfile.jspa?name=1803438">Marc Perarnau Olaya</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">16/d&rsquo;oct./25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-1021871"><td bgcolor="#ffffff">
+            <p>Accions realitzades per Marc Perarnau Olaya:</p>
+
+<p>Publicat avis a TEAMS</p>
+        </td></tr>
+                <tr id="comment-header-1021932"><td bgcolor="#f0f0f0">
+            Comentat per  
+                                                        <a class="user-hover" rel="2016572" id="word_commented_2016572" href="https://tiquets.uab.cat/secure/ViewProfile.jspa?name=2016572">Xavier Castilla Diaz</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">16/d&rsquo;oct./25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-1021932"><td bgcolor="#ffffff">
+            <p>Planificada amb Manteniment i el proveïdor EATON per el dia 28/10.</p>
+        </td></tr>
+            </table>
+Generated at Mon Oct 27 20:33:18 CET 2025 by Marc Perarnau Olaya using Jira 9.12.22#9120022-sha1:231fbc3c75fa86a561ac9db4a71074080d297458.
+
+</body>
+</html>
