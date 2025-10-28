@@ -105,3 +105,30 @@ FileFlow/
 ### Procesar tiquet
 
 ![Imagen](image/screenshots/procesados.png)
+
+---
+
+## Referencia de Colores
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary | ![#3A7D44](https://via.placeholder.com/10/3A7D44?text=+) #3A7D44 |
+| Secundary | ![#2C6E91](https://via.placeholder.com/10/2C6E91?text=+) #2C6E91 |
+| Accent | ![#D4A017](https://via.placeholder.com/10/D4A017?text=+) #D4A017 |
+| BG | ![#F5F7F8](https://via.placeholder.com/10/F5F7F8?text=+) #F5F7F8 |
+| Text | ![#2E2E2E](https://via.placeholder.com/10/2E2E2E?text=+) #2E2E2E |
+| Muted | ![#6B7280](https://via.placeholder.com/10/6B7280?text=+) #6B7280 |
+
+
+
+---
+## Authors
+
+- [@MarcLiang](https://www.github.com/MarcLiang)
+
+## 🪪 Licencia
+
+>[!Important]
+> Este proyecto está bajo la licencia MIT.
+> Consulta el archivo LICENSE
+ para más información.
