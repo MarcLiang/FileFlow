@@ -60,6 +60,7 @@ pip install selenium requests mysql-connector-python
 ```
 http://localhost/fileflow
 ```
+---
 
 ## 📁 Estructura del proyecto
 ```bash
@@ -79,11 +80,13 @@ FileFlow/
 │   └── login.css         
 ├── imagenes/
 │   ├── uablogo.png
-│   └── screenshots/        
-├── database.sql             
+│   └── screenshots/                 
 └── drivers/
 │   └── msedgedriver.exe
+└── database.sql  
 ```
+
+---
 
 ## 🖼️ Capturas de pantalla
 
