@@ -1,6 +1,5 @@
-/* === login.css === */
+@import url('colores.css');
 
-/* Reset básico */
 * {
     margin: 0;
     padding: 0;
@@ -8,21 +7,20 @@
     font-family: "Segoe UI", Arial, sans-serif;
 }
 
-/* Fondo general */
 body {
     height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(135deg, #0078d7, #00b4d8);
+    background-color: var(--primary);
     color: #333;
 }
 
 /* Título */
 h2 {
     margin-bottom: 25px;
-    color: #ffffff;
+    color: var(--text);
     font-weight: 600;
     font-size: 28px;
     text-align: center;
@@ -31,44 +29,67 @@ h2 {
 
 /* Contenedor del formulario */
 form {
-    background-color: #fff;
+    background-color: var(--accent);
     padding: 40px 50px;
     border-radius: 15px;
-    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 6px 38px var(--secondary);
     width: 100%;
     max-width: 380px;
 }
 
-/* Etiquetas */
-label {
-    display: block;
-    margin-bottom: 6px;
-    font-weight: 500;
-    color: #444;
+/* Contenedor input + label */
+.input-group {
+    position: relative;
+    margin-bottom: 24px;
 }
 
 /* Inputs */
-input[type="text"],
-input[type="password"] {
+.input-group input {
     width: 100%;
-    padding: 10px 12px;
-    margin-bottom: 18px;
+    padding: 12px;
     border: 1px solid #ccc;
     border-radius: 8px;
-    transition: border-color 0.3s;
     font-size: 15px;
+    outline: none;
+    background: #c7c7c7;
+    transition: border-color 0.3s;
 }
 
-input:focus {
-    border-color: #0078d7;
-    outline: none;
+/* Focus del input */
+.input-group input:focus {
+    border-color: var(--secondary);
+}
+
+/* Labels flotantes */
+.input-group label {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    color: #444;
+    font-size: 15px;
+    font-weight: 500;
+    pointer-events: none;
+    transition: 0.3s ease all;
+    background-color: transparent;
+}
+
+/* Cuando el input tiene foco o valor */
+.input-group input:focus + label,
+.input-group input:not(:placeholder-shown) + label {
+    top: -8px;
+    left: 10px;
+    font-size: 12px;
+    background-color: var(--accent);
+    padding: 0 4px;
+    color: var(--text);
+    border-color: var(--secondary);
 }
 
 /* Botón */
 button {
     width: 100%;
     padding: 12px;
-    background-color: #0078d7;
+    background-color: var(--primary);
     color: #fff;
     border: none;
     border-radius: 8px;
@@ -79,7 +100,7 @@ button {
 }
 
 button:hover {
-    background-color: #005fa3;
+    background-color: var(--secondary);
 }
 
 /* Mensaje de error */
