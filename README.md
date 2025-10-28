@@ -78,7 +78,7 @@ FileFlow/
 ├── css/
 │   └── colores.css
 │   └── login.css         
-├── imagenes/
+├── image/
 │   ├── uablogo.png
 │   └── screenshots/                 
 └── drivers/
@@ -92,7 +92,16 @@ FileFlow/
 
 ### Login 
 
-![Imagen]()
+![Imagen](image/screenshots/login.png)
 
+### Menu
 
+![Imagen](image/screenshots/menu.png)
 
+### Subir tiquet
+
+![Imagen](image/screenshots/tiquet.png)
+
+### Procesar tiquet
+
+![Imagen](image/screenshots/procesados.png)
